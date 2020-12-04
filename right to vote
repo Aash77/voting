@@ -10,11 +10,11 @@ int main()
 
 	if(age>=18)
 	{
-		cout<<"Personl is eligible for voting"<<endl;
+		cout<<"Person is eligible for voting"<<endl;
 	}
 	else
 	{
-		cout<<"Person is not eligible for voating"<<endl;
+		cout<<"Person is not eligible for voting"<<endl;
 	}
 
 	return 0;
